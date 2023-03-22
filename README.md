@@ -75,6 +75,8 @@ After Rotation:-
 
 ![OUTPUT](2.png)
 ![OUTPUT](3.png)
+TEXT:-
 
+![OUTPUT](4.png)
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed sucessfully.
